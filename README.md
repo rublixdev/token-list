@@ -1,6 +1,6 @@
-# Sushiswap Menu Token List
-Sushiswap token list contains all of the pairs that currently are receiving LP SUSHI rewards. The list will be updated in the future, as pairs are added or removed.
+# SteakSwap Token List
+Steakswap token list contains all of the pairs that currently are receiving LP STEAK rewards. The list will be updated in the future, as pairs are added or removed.
 
-To add list manually to sushiswap or uniswap use this link: https://raw.githubusercontent.com/sushiswapclassic/token-list/master/sushiswap.tokenlist.json
+To add list manually to Steakswap or uniswap use this link: https://raw.githubusercontent.com/rublixdev/token-list/master/steakswap.tokenlist.json
 
 See https://tokenlists.org/.

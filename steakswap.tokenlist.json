@@ -1,20 +1,20 @@
 {
-  "name": "SushiSwap Menu",
-  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png",
+  "name": "SteakSwap List",
+  "logoURI": "https://raw.githubusercontent.com/rublixdev/token-list/master/assets/STEAK.png",
   "keywords": [
-    "sushiswap",
-    "sushi",
+    "steakshiswap",
+    "steak",
     "swap"
   ],
   "timestamp": "2020-09-01T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
       "chainId": 1,
-      "name": "SushiSwap",
-      "symbol": "SUSHI",
+      "name": "HedgeTrade",
+      "symbol": "HEDG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3662.png"
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
