@@ -17,6 +17,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3662.png"
     },
     {
+      "address": "0xeED9e4F2450035D6426276a8aA2084966EE3b1bb",
+      "chainId": 1,
+      "name": "Steaks.Finance",
+      "symbol": "STEAK",
+      "decimals": 18,
+      "logoURI": "https://steaks.finance/favicon.png"
+    },
+    {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
       "name": "WrappedEther",
