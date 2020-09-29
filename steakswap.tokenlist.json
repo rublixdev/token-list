@@ -33,6 +33,14 @@
       "logoURI": "https://1inch.exchange/assets/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
     {
+      "name": "Wrapped BTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "chainId": 1,
       "name": "TetherUSD",
